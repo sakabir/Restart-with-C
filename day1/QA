@@ -1,0 +1,29 @@
+1. What is a keyword and what are the keywords in your program? 
+   ans: Keywords are predefined, reserved words used in programming that have special meanings to the compiler.
+        Keywords are part of the syntax and they cannot be used as an identifier.
+   "int"
+
+2. What is an identifier and what are the identifiers in your program?
+  ans: Identifier refers to name given to entities such as variables, functions, structures etc.
+        Identifiers must be unique.
+  => Rules for naming identifiers----
+    a.A valid identifier can have letters (both uppercase and lowercase letters), digits and underscores.
+    b.The first letter of an identifier should be either a letter or an underscore.
+    c.You cannot use keywords as identifiers.
+    d.There is no rule on how long an identifier can be. 
+      However, you may run into problems in some compilers if the identifier is longer than 31 characters.
+
+    "no identifier"
+
+3. How you can add a comment?
+  ans: there are two types of comments :
+  => Single line comment
+      \\this is single line comment
+  => Multi-line comment
+      /* this is
+      a multiline comment */
+      
+4. How whitespace and comments are treated?
+  ans: A line containing only whitespace, possibly with a comment, is known as a blank line, and a C compiler totally ignores it.
+      Whitespace is the term used in C to describe blanks, tabs, newline characters and comments.
+      Whitespace separates one part of a statement from another and enables the compiler to identify where one element in a statement.
