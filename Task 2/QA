@@ -1,0 +1,17 @@
+test the program with these inputs:
+2 4
+2 9
+15 17
+
+OUTPUT:
+2 4
+Remainder of 4 and 2 is: 0
+Quotient of 4 divided by 2 is: 2
+
+2 9
+Remainder of 9 and 2 is: 1
+Quotient of 9 divided by 2 is: 4
+
+15 17
+Remainder of 17 and 15 is: 2
+Quotient of 17 divided by 15 is: 1
