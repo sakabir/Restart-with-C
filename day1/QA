@@ -1,7 +1,7 @@
 1. What is a keyword and what are the keywords in your program? 
    ans: Keywords are predefined, reserved words used in programming that have special meanings to the compiler.
         Keywords are part of the syntax and they cannot be used as an identifier.
-   "int"
+   "int and return"
 
 2. What is an identifier and what are the identifiers in your program?
   ans: Identifier refers to name given to entities such as variables, functions, structures etc.
@@ -13,7 +13,7 @@
     d.There is no rule on how long an identifier can be. 
       However, you may run into problems in some compilers if the identifier is longer than 31 characters.
 
-    "no identifier"
+    "main, as its function"
 
 3. How you can add a comment?
   ans: there are two types of comments :
