@@ -1,0 +1,8 @@
+# ignore all files
+*
+
+# do not ignore the directories
+!/*
+
+# do not ignore the .c files
+!*.c
