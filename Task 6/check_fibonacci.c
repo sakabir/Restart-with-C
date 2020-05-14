@@ -4,6 +4,9 @@
 
         printf("Enter number:");
         scanf("%d", &n);
+        if (n>100000)
+            printf("Error");
+        else {
 
         if (n == n1 || n == n2) {
                 printf("%d is an element of Fibonacci series\n", n);
@@ -26,5 +29,8 @@
         } else {
                 printf("%d is not an element of Fibonacci series\n", n);
         }
+        }
+
+
         return 0;
   }
